@@ -78,7 +78,7 @@ onUnmounted(() => {
                         <span v-else class="material-icons-round text-lg">light_mode</span>
                     </button>
                     
-                    <a href="https://studymoods.netlify.app/" target="_blank" class="text-primary dark:text-white hover:text-secondary dark:hover:text-secondary font-bold transition-colors">
+                    <a href="https://studymoods.vercel.app/" target="_blank" class="text-primary dark:text-white hover:text-secondary dark:hover:text-secondary font-bold transition-colors">
                         {{ t.nav.testFlight }}
                     </a>
                     

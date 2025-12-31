@@ -82,7 +82,7 @@ onMounted(() => {
                             {{ t.hero.pitchDeck }}
                             <span class="material-icons-round ml-2">arrow_forward</span>
                         </a>
-                        <a href="https://studymoods.netlify.app/" target="_blank" class="inline-flex justify-center items-center px-8 py-4 bg-secondary text-white rounded-2xl font-bold shadow-glow hover:translate-y-[-4px] transition-all hover:shadow-lg hover:bg-secondary/90">
+                        <a href="https://studymoods.vercel.app/" target="_blank" class="inline-flex justify-center items-center px-8 py-4 bg-secondary text-white rounded-2xl font-bold shadow-glow hover:translate-y-[-4px] transition-all hover:shadow-lg hover:bg-secondary/90">
                             {{ t.hero.tryNow }}
                             <span class="material-icons-round ml-2">rocket_launch</span>
                         </a>
