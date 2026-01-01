@@ -1,6 +1,5 @@
 <script setup>
 import { onMounted } from 'vue';
-import { SpeedInsights } from '@vercel/speed-insights/vue';
 import NavBar from './components/NavBar.vue';
 import Hero from './components/Hero.vue';
 import Features from './components/Features.vue';
@@ -46,6 +45,5 @@ onMounted(() => {
       <Support />
     </main>
     <Footer />
-    <SpeedInsights />
   </div>
 </template>
